@@ -10,7 +10,7 @@ i love it
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/10.jpg "Team Picture")
 
 ---
 **Test**: This is atest
