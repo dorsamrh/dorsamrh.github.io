@@ -1,19 +1,12 @@
 ---
 layout: posts
-title: Test Post
+title: website link
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
 
-[my favorite website](http://www.google.com)
+[my favorite website](http://www.notion.so)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+i love it
 
 
 
