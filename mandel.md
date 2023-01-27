@@ -8,8 +8,10 @@ modified: 1-27-2023
 comments: false
 ---
 
-**Mandelbrot project**
 
+
+
+**Mandelbrot project**
 
 ### Have you ever heard the name Mandelbrot?
 The **Mandelbrot set** is the set of complex numbers  c for which the function f(z)=z**2+c does not diverge to infinity when iterated from z=0. 
